@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Design Project</string>
+    <string name="action_option1">Option 1</string>
+    <string name="action_option2">Option2</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hint_homeUserId">Username</string>
+    <string name="hint_homePassword">Password</string>
+    <string name="hint_homeEmail">Email</string>
+    <string name="hint_homeMobile">Phone Number</string>
+
+    <string name="text_Register">Register</string>
+    <string name="text_ForgetPassword">Forgot Password</string>
+
+    <string name="heading_Login">User Login</string>
+    <string name="heading_Home">Do you know how \nfabulous your life can be?</string>
+
+    <string name="title_Login">Login</string>
+    <string name="title_Home">LOGO DESIGN</string>
+    <string name="title_activity_home">Home Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="text_homeCallUs">CALL US : 123-5589965</string>
+    <string name="hint_homeButtonInvest">INVEST NOW</string>
+    <string name="hint_regFirstName">First Name</string>
+    <string name="hint_regLastName">Last Name</string>
+    <string name="hint_regEmail">Email</string>
+    <string name="hint_regPassword">Password</string>
+    <string name="hint_regConfirmPassword">Confirm Password</string>
+    <string name="heading_Registration1">User Registration</string>
+    <string name="heading_Registration2">Contact Details</string>
+    <string name="hint_regStreet">Street *</string>
+    <string name="hint_regCity">City *</string>
+    <string name="hint_regZip">Zip</string>
+    <string name="hint_regCountry">Country</string>
+    <string name="hint_regMobileNumber">Mobile Number</string>
+    <string name="hint_regButtonRegister">REGISTER NOW</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_investment">Investment</string>
+    <string name="hint_regButtonCancel">CANCEL</string>
+    <string name="hint_invButton_InvPref">MY PREFERENCE</string>
+    <string name="hint_invButton_InvHistory">INVESTMENT HISTORY</string>
+    <string name="hint_invHist_Request">MAKE REQUEST</string>
+    <string name="heading_confirmation">Confirmed\nAcknowledgement Number</string>
+    <string name="title_confirmation">Confirmation</string>
+    <string name="title_myPreference">My Preference</string>
+    <string name="hint_invPref_button">Submit</string>
+    <string name="title_investmentHistory">Investment History</string>
+    <string name="heading_ForgotPassword">Forgot Password</string>
+    <string name="hint_forgetButton">SUBMIT</string>
+    <string name="hint_forgetUserId">User ID</string>
+    <string name="hint_forgetNewPassword">New Password</string>
+    <string name="hint_forgetConfirmPassword">Confirm Password</string>
+    <string name="myPref_colAmount">Amount</string>
+    <string name="myPref_colInterest">Interest</string>
+    <string name="myPref_colTenure">Tenure</string>
+    <string name="myPref_colDate">Date</string>
+    <string name="myPref_colSearch">Search</string>
+    <string name="hint_invRes_InvestNow">INVEST NOW</string>
+    <string name="title_prefResult">Preference Result</string>
+    <string name="title_investmentDetails">Investment Details</string>
+    <string name="heading_linkAcount">Link Bank Account</string>
+    <string name="link_accountMsg">Do you have any Current/Saving account with the selected bank to open deposite?</string>
+    <string name="title_linkAcount">Link Account</string>
+    <string name="heading_pendingVerification">Pending Verification</string>
+    <string name="heading_pendingPayment">Pending Payment</string>
+    <string name="heading_paymentActive">Payment Active</string>
+    <string name="title_pendingVerification">Verification</string>
+    <string name="title_pendingPayment">Payment</string>
+    <string name="title_paymentActive">Payment Active</string>
+    <string name="heading_reinvestment">Reinvestment Details</string>
+    <string name="title_reInvestment">Reinvestment</string>
+    <string name="heading_Settings">Settings</string>
+
+    //Navigation Drawer menu items
+    <string name="navigation_settings">Settings</string>
+    <string name="navigation_myPreference">My Preference</string>
+    <string name="navigation_investmentHistory">Investment History</string>
+    <string name="navigation_Reinvestment">Reinvestment</string>
+    <string name="navigation_Logout">Logout</string>
+    <string name="hint_settingChangePassword">Change Password</string>
+    <string name="hint_settingChangeAddress">Change Address</string>
+    <string name="title_Settings">Settings</string>
+    <string name="popupDialog_message">Are you sure want to login?</string>
+</resources>

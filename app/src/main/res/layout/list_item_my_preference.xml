@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/text_amount"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:textColor="@color/gray"
+        android:gravity="center_horizontal"
+        android:hint="10,000"/>
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/text_rate"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:textColor="@color/gray"
+        android:gravity="center_horizontal"
+        android:hint="1.6%"/>
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/text_tenure"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:textColor="@color/gray"
+        android:gravity="center_horizontal"
+        android:hint="5 Years"/>
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/text_dateTime"
+        android:layout_width="0dp"
+        android:layout_weight="1.4"
+        android:layout_height="wrap_content"
+        android:textColor="@color/gray"
+        android:gravity="center_horizontal"
+        android:hint="15 July, 2017"/>
+
+    <ImageView
+        android:id="@+id/image_search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingRight="5dp"
+        android:src="@drawable/ic_search"/>
+
+</LinearLayout>
